@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373735396657",
+    "project_id": "imarika-sacco",
+    "storage_bucket": "imarika-sacco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373735396657:android:7d9f86a0a3e86086710c10",
+        "android_client_info": {
+          "package_name": "com.example.imarika_sacco_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbmsHFtfo7U8D4ur_iUgSTLdsK8TH7fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
